@@ -26,12 +26,13 @@ Citation:
 
 Each row represent mean values for each activity and each subject, for each of the variables selected.
 
- [1] "subject"
-	Subject identification
-	Integer: 1-30
+ [1] "subject":
+	Subject identification.
+	Integer: 1-30.
                         
- [2] "activity"
-	Activity performed by the subject
+ [2] "activity":
+	Activity performed by the subject.
+
 	Values:
 		- WALKING
 		- WALKING_UPSTAIRS
@@ -40,318 +41,318 @@ Each row represent mean values for each activity and each subject, for each of t
 		- STANDING
 		- LAYING
  
- [3] "tBodyAcc.mean...X"
+ [3] "tBodyAcc.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.mean...X" of the original dataset.
-	Real number
+	Real number.
 
- [4] "tBodyAcc.mean...Y"
+ [4] "tBodyAcc.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
- [5] "tBodyAcc.mean...Z"
+ [5] "tBodyAcc.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
- [6] "tBodyAcc.std...X"
+ [6] "tBodyAcc.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.std...X" of the original dataset.
-	Real number
+	Real number.
 
- [7] "tBodyAcc.std...Y"
+ [7] "tBodyAcc.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.std...Y" of the original dataset.
-	Real number
+	Real number.
 
- [8] "tBodyAcc.std...Z"
+ [8] "tBodyAcc.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.std...Z" of the original dataset.
-	Real number
+	Real number.
 
- [9] "tGravityAcc.mean...X"
+ [9] "tGravityAcc.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAcc.mean...X" of the original dataset.
-	Real number
+	Real number.
 
-[10] "tGravityAcc.mean...Y"
+[10] "tGravityAcc.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAcc.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
-[11] "tGravityAcc.mean...Z"
+[11] "tGravityAcc.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAcc.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
-[12] "tGravityAcc.std...X"
+[12] "tGravityAcc.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAcc.std...X" of the original dataset.
-	Real number
+	Real number.
 
-[13] "tGravityAcc.std...Y"
+[13] "tGravityAcc.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAcc.std...Y" of the original dataset.
-	Real number
+	Real number.
 
-[14] "tGravityAcc.std...Z"
+[14] "tGravityAcc.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAcc.std...Z" of the original dataset.
-	Real number
+	Real number.
 
-[15] "tBodyAccJerk.mean...X"
+[15] "tBodyAccJerk.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerk.mean...X" of the original dataset.
-	Real number
+	Real number.
 
-[16] "tBodyAccJerk.mean...Y"
+[16] "tBodyAccJerk.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerk.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
-[17] "tBodyAccJerk.mean...Z"
+[17] "tBodyAccJerk.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerk.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
-[18] "tBodyAccJerk.std...X"
+[18] "tBodyAccJerk.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerk.std...X" of the original dataset.
-	Real number
+	Real number.
 
-[19] "tBodyAccJerk.std...Y"
+[19] "tBodyAccJerk.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerk.std...Y" of the original datase.t
-	Real number
+	Real number.
 
-[20] "tBodyAccJerk.std...Z"
+[20] "tBodyAccJerk.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerk.std...Z" of the original dataset.
-	Real number
+	Real number.
 
-[21] "tBodyGyro.mean...X"
+[21] "tBodyGyro.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyro.mean...X" of the original dataset.
-	Real number
+	Real number.
 
-[22] "tBodyGyro.mean...Y"
+[22] "tBodyGyro.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyro.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
-[23] "tBodyGyro.mean...Z"
+[23] "tBodyGyro.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyro.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
-[24] "tBodyGyro.std...X"
+[24] "tBodyGyro.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyro.std...X" of the original dataset.
-	Real number
+	Real number.
 
-[25] "tBodyGyro.std...Y"
+[25] "tBodyGyro.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyro.std...Y" of the original dataset.
-	Real number
+	Real number.
 
-[26] "tBodyGyro.std...Z"
+[26] "tBodyGyro.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyro.std...Z" of the original dataset.
-	Real number
+	Real number.
 
-[27] "tBodyGyroJerk.mean...X"
+[27] "tBodyGyroJerk.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerk.mean...X" of the original dataset.
-	Real number
+	Real number.
 
-[28] "tBodyGyroJerk.mean...Y"
+[28] "tBodyGyroJerk.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerk.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
-[29] "tBodyGyroJerk.mean...Z"
+[29] "tBodyGyroJerk.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerk.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
-[30] "tBodyGyroJerk.std...X"
+[30] "tBodyGyroJerk.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerk.std...X" of the original dataset.
-	Real number
+	Real number.
 
-[31] "tBodyGyroJerk.std...Y"
+[31] "tBodyGyroJerk.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerk.std...Y" of the original dataset.
-	Real number
+	Real number.
 
-[32] "tBodyGyroJerk.std...Z"
+[32] "tBodyGyroJerk.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerk.std...Z" of the original dataset.
-	Real number
+	Real number.
 
-[33] "tBodyAccMag.mean.."
+[33] "tBodyAccMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[34] "tBodyAccMag.std.."
+[34] "tBodyAccMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[35] "tGravityAccMag.mean.."
+[35] "tGravityAccMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAccMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[36] "tGravityAccMag.std.."
+[36] "tGravityAccMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "tGravityAccMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[37] "tBodyAccJerkMag.mean.."
+[37] "tBodyAccJerkMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerkMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[38] "tBodyAccJerkMag.std.."
+[38] "tBodyAccJerkMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAccJerkMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[39] "tBodyGyroMag.mean.."
+[39] "tBodyGyroMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[40] "tBodyGyroMag.std.."
+[40] "tBodyGyroMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[41] "tBodyGyroJerkMag.mean.."
+[41] "tBodyGyroJerkMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerkMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[42] "tBodyGyroJerkMag.std.."
+[42] "tBodyGyroJerkMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyGyroJerkMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[43] "fBodyAcc.mean...X"
+[43] "fBodyAcc.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.mean...X" of the original dataset.
-	Real number
+	Real number.
 
-[44] "fBodyAcc.mean...Y"
+[44] "fBodyAcc.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
-[45] "fBodyAcc.mean...Z"
+[45] "fBodyAcc.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
-[46] "fBodyAcc.std...X"
+[46] "fBodyAcc.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.std...X" of the original dataset.
-	Real number
+	Real number.
 
-[47] "fBodyAcc.std...Y"
+[47] "fBodyAcc.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.std...Y" of the original dataset.
-	Real number
+	Real number.
 
-[48] "fBodyAcc.std...Z"
+[48] "fBodyAcc.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.std...Z" of the original dataset.
-	Real number
+	Real number.
 
-[49] "fBodyAcc.meanFreq...X"
+[49] "fBodyAcc.meanFreq...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.meanFreq...X" of the original dataset.
-	Real number
+	Real number.
 
-[50] "fBodyAcc.meanFreq...Y"
+[50] "fBodyAcc.meanFreq...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.meanFreq...Y" of the original dataset.
-	Real number
+	Real number.
 
-[51] "fBodyAcc.meanFreq...Z"
+[51] "fBodyAcc.meanFreq...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAcc.meanFreq...Z" of the original dataset.
-	Real number
+	Real number.
 
-[52] "fBodyAccJerk.mean...X"
+[52] "fBodyAccJerk.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.mean...X" of the original dataset.
-	Real number
+	Real number.
 
-[53] "fBodyAccJerk.mean...Y"
+[53] "fBodyAccJerk.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
-[54] "fBodyAccJerk.mean...Z"
+[54] "fBodyAccJerk.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
-[55] "fBodyAccJerk.std...X"
+[55] "fBodyAccJerk.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.std...X" of the original dataset.
-	Real number
+	Real number.
 
-[56] "fBodyAccJerk.std...Y"
+[56] "fBodyAccJerk.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.std...Y" of the original dataset.
-	Real number
+	Real number.
 
-[57] "fBodyAccJerk.std...Z"
+[57] "fBodyAccJerk.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.std...Z" of the original dataset.
-	Real number
+	Real number.
 
-[58] "fBodyAccJerk.meanFreq...X"
+[58] "fBodyAccJerk.meanFreq...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.meanFreq...X" of the original dataset.
-	Real number
+	Real number.
 
-[59] "fBodyAccJerk.meanFreq...Y"
+[59] "fBodyAccJerk.meanFreq...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.meanFreq...Y" of the original dataset.
-	Real number
+	Real number.
 
-[60] "fBodyAccJerk.meanFreq...Z"
+[60] "fBodyAccJerk.meanFreq...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccJerk.meanFreq...Z" of the original dataset.
-	Real number
+	Real number.
 
-[61] "fBodyGyro.mean...X"
+[61] "fBodyGyro.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.mean...X" of the original dataset.
-	Real number
+	Real number.
 
-[62] "fBodyGyro.mean...Y"
+[62] "fBodyGyro.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.mean...Y" of the original dataset.
-	Real number
+	Real number.
 
-[63] "fBodyGyro.mean...Z"
+[63] "fBodyGyro.mean...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.mean...Z" of the original dataset.
-	Real number
+	Real number.
 
-[64] "fBodyGyro.std...X"
+[64] "fBodyGyro.std...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.std...X" of the original dataset.
-	Real number
+	Real number.
 
-[65] "fBodyGyro.std...Y"
+[65] "fBodyGyro.std...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.std...Y" of the original dataset.
-	Real number
+	Real number.
 
-[66] "fBodyGyro.std...Z"
+[66] "fBodyGyro.std...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.std...Z" of the original dataset.
-	Real number
+	Real number.
 
-[67] "fBodyGyro.meanFreq...X"
+[67] "fBodyGyro.meanFreq...X":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.meanFreq...X" of the original. dataset
-	Real number
+	Real number.
 
-[68] "fBodyGyro.meanFreq...Y"
+[68] "fBodyGyro.meanFreq...Y":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.meanFreq...Y" of the original. dataset
-	Real number
+	Real number.
 
-[69] "fBodyGyro.meanFreq...Z"
+[69] "fBodyGyro.meanFreq...Z":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyGyro.meanFreq...Z" of the original. dataset
-	Real number
+	Real number.
 
-[70] "fBodyAccMag.mean.."
+[70] "fBodyAccMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[71] "fBodyAccMag.std.."
+[71] "fBodyAccMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[72] "fBodyAccMag.meanFreq.."
+[72] "fBodyAccMag.meanFreq..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyAccMag.meanFreq.." of the original dataset.
-	Real number
+	Real number.
 
-[73] "fBodyBodyAccJerkMag.mean.."
+[73] "fBodyBodyAccJerkMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyAccJerkMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[74] "fBodyBodyAccJerkMag.std.."
+[74] "fBodyBodyAccJerkMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyAccJerkMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[75] "fBodyBodyAccJerkMag.meanFreq.."
+[75] "fBodyBodyAccJerkMag.meanFreq..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyAccJerkMag.meanFreq.." of the original dataset.
-	Real number
+	Real number.
 
-[76] "fBodyBodyGyroMag.mean.."
+[76] "fBodyBodyGyroMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyGyroMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[77] "fBodyBodyGyroMag.std.."
+[77] "fBodyBodyGyroMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyGyroMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[78] "fBodyBodyGyroMag.meanFreq.."
+[78] "fBodyBodyGyroMag.meanFreq..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyGyroMag.meanFreq.." of the original dataset.
-	Real number
+	Real number.
 
-[79] "fBodyBodyGyroJerkMag.mean.."
+[79] "fBodyBodyGyroJerkMag.mean..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyGyroJerkMag.mean.." of the original dataset.
-	Real number
+	Real number.
 
-[80] "fBodyBodyGyroJerkMag.std.."
+[80] "fBodyBodyGyroJerkMag.std..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyGyroJerkMag.std.." of the original dataset.
-	Real number
+	Real number.
 
-[81] "fBodyBodyGyroJerkMag.meanFreq.."
+[81] "fBodyBodyGyroJerkMag.meanFreq..":
 	Aggregated mean value --for subject and activity-- for the variable "fBodyBodyGyroJerkMag.meanFreq.." of the original dataset.
-	Real number
+	Real number.
