@@ -28,22 +28,24 @@ Each row represent mean values for each activity and each subject, for each of t
 
  [1] "subject":
 	Subject identification.
-	Integer: 1-30.
+	
+	Values: Integer: 1-30.
                         
  [2] "activity":
 	Activity performed by the subject.
-
+	
 	Values:
-		- WALKING
-		- WALKING_UPSTAIRS
-		- WALKING_DOWNSTAIRS
-		- SITTING
-		- STANDING
-		- LAYING
+	   - WALKING
+	   - WALKING_UPSTAIRS
+	   - WALKING_DOWNSTAIRS
+	   - SITTING
+	   - STANDING
+	   - LAYING
  
  [3] "tBodyAcc.mean...X":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.mean...X" of the original dataset.
-	Real number.
+	
+	Values: Real number.
 
  [4] "tBodyAcc.mean...Y":
 	Aggregated mean value --for subject and activity-- for the variable "tBodyAcc.mean...Y" of the original dataset.
