@@ -5,9 +5,9 @@ UCI-HAR-Dataset-Project
 
 ##About
 
-script: run_analysis.R
-author: "Federico Meza"
-date: 8/23/2014
+- script: run_analysis.R
+- author: "Federico Meza"
+- date: 8/23/2014
 
 ##The script
 
