@@ -24,7 +24,7 @@ Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ort
 
 ##Description of variables in the data set
 
-Each row represent mean values for each activity and each subject, for each of the variables selected.
+Each row represents mean values for each activity and each subject, for each of the variables selected.
 
  **[1]** "subject":
 	Subject identification.
