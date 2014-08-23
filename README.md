@@ -14,7 +14,7 @@ UCI-HAR-Dataset-Project
 The run_analysis.R script works on the Human Activity Recognition Using Smartphones Data Set from the University of California at Irvine (UCI HAR Dataset).
 
 The script requires that the directory with the data is in the working directory.
-This directory must be named "UCI HAR Dataset" and must have its original structure.
+This directory must be named "UCI HAR Dataset" (without the quotes) and must have its original structure.
 
 ##What the script does
 
